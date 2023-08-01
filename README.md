@@ -2,8 +2,7 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkepdls&theme=merko" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=merko" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkepdls&theme=merko" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=merko" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkepdls&theme=merko" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=merko" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=merko&utcOffset=8" />
 <!--
