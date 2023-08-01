@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<p dir="auto>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkepdls&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkepdls&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=blue_green&utcOffset=8)
-  </p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkepdls&theme=blue_green" alt style="max-width: 100%;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=blue_green" alt style="max-width: 100%;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkepdls&theme=blue_green" alt style="max-width: 100%;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=blue_green" alt style="max-width: 100%;">
+<img src="(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=blue_green&utcOffset=8" alt style="max-width: 100%;">
+
 <!--
 **rkepdls/rkepdls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
