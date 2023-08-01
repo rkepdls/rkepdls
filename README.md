@@ -1,22 +1,13 @@
-###  👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=nord_dark" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkepdls&theme=nord_dark" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=nord_dark" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=nord_dark&utcOffset=8" />
+### 🌈 Welcome to SOKURI_CODE 👋 
 
-<!--
-**rkepdls/rkepdls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently interested in `Go`, `Rust`
+- 🥅 2022 Goals : Build my own mainnet
+- ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex, height:180px">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
+</div>
