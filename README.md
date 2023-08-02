@@ -8,7 +8,14 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=nord_dark&utcOffset=8" />
 </div>
 <br><br><br><br>
-<div style="float:right;">
+
+<div align="left">
+:pencil2: Recently
+  <br><br>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</div>
+
+<div align="right">
 :pencil2: Study
   <br><br>
   
