@@ -9,7 +9,7 @@
 </div>
 <br><br><br><br><br><br>
 
-<img align="right" src="https://github.com/rkepdls/rkepdls/assets/130538540/4682aeaa-9e08-4cb8-ab7f-2f34cdf94e4f" width="300" height="300" padding-right="20px">
+<img align="right" src="https://github.com/rkepdls/rkepdls/assets/130538540/4682aeaa-9e08-4cb8-ab7f-2f34cdf94e4f" width="400" height="400" padding-right="20px">
 
   <div>
     :pencil2: Recently
