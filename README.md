@@ -9,13 +9,13 @@
 </div>
 <br><br><br><br><br><br>
 <div>
-  <div align="left">
+  <div style="display: flex">
     :pencil2: Recently
     <br><br>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   </div>
   
-  <div align="right">
+  <div>
     :pencil2: Study
   <br><br>
   
