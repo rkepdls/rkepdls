@@ -1,4 +1,4 @@
-![picography-abstract-bokeh-color-lights](https://github.com/rkepdls/rkepdls/assets/130538540/c60e9152-b6d6-4265-aca6-e63025faaa8f)
+![picography-view-of-a-city-skyline-across-the-water](https://github.com/rkepdls/rkepdls/assets/130538540/b709b635-2581-4985-a841-26e6adb650bc)
 
 
 <div style="display: flex, height:180px">
