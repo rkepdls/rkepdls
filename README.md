@@ -7,9 +7,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=nord_dark" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=nord_dark&utcOffset=8" />
 </div>
-
+<br><br><br><br>
 <div>
-#### :pencil2: Study
+:pencil2: Study
   <br/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
