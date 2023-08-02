@@ -10,13 +10,13 @@
 <br><br><br><br><br><br>
 
 
-<div style="display: flex">
-  <div >
+  <div>
     :pencil2: Recently
     <br><br>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
   </div>
-  
+  <br><br><br>
   <div>
     :pencil2: Study
   <br><br>
@@ -46,6 +46,5 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  
+
   </div>
-</div>
