@@ -7,7 +7,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=nord_dark" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=nord_dark&utcOffset=8" />
 </div>
-<br><br><br><br>
+<br><br>
 
 <div align="left">
 :pencil2: Recently
