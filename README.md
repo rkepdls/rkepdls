@@ -11,8 +11,9 @@
 
 <img align="right" src="https://github.com/rkepdls/rkepdls/assets/130538540/4682aeaa-9e08-4cb8-ab7f-2f34cdf94e4f" width="400" height="400" padding-right="20px">
 
+  
   <div>
-  ###  :pencil2: Recently
+  :pencil2: Recently
     <br><br>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -21,8 +22,9 @@
 
   </div>
   <br><br><br>
+  
   <div>
-  ###  :pencil2: Study
+  :pencil2: Study
   <br><br>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
