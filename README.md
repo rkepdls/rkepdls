@@ -56,7 +56,7 @@
   </div>
   
   ---
-  ### 대기중
+  ### Record
 
   <div align="center">
     
