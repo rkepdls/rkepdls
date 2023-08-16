@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=DONGHYUK's%20GitHub&fontSize=40)
+
 # SEO DONG HYUK😐
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkepdls@gmail.com)](mailto:rkepdls@gmail.com)
