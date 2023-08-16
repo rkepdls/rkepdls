@@ -1,70 +1,47 @@
-![picography-view-of-a-city-skyline-across-the-water](https://github.com/rkepdls/rkepdls/assets/130538540/b709b635-2581-4985-a841-26e6adb650bc)
+# SEO DONG HYUK😐
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkepdls@gmail.com)](mailto:rkepdls@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rkepdls@naver.com)](mailto:rkepdls@naver.com)
 
 
-<div align="center" style="display: flex, height:180px">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=nord_dark" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkepdls&theme=nord_dark" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkepdls&theme=nord_dark" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=nord_dark&utcOffset=8" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkepdls)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# 📚 Study
+
+### Platforms & Languages
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+
+### Tools & Server
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Amazon](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+
+
+# 📜 Record
+<div align="center">
+   
+| Date | Contents | Note |
+|:---:|:---:|:---:|
+| 2023.04 - 2023.08 | AWS활용 자바 풀스택개발 과정 수료 | 국비지원교육 |
+| - | 콘솔 게시판 만들기 프로젝트 | 팀프로젝트 |
+| - | StudyCafe 프로젝트 | 팀프로젝트 |
+| - | Hotel 프로젝트 | 팀프로젝트 |
+| - | 영화 리뷰 게시판 프로젝트 | 개인프로젝트 |
+| 2007.03 - 2014.08 | 생명과학부 식품공학과 졸업 | 경희대학교 |
 </div>
-<br><br><br><br><br><br>
-
-  <div>
-  :pencil2: Recently
-    <br><br>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-    
-
-  </div>
-  <br><br><br>
-  
-  <div>
-  :pencil2: Study
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
-  </div>
-  
-  ---
-  ### Record
-
-  <div align="center">
-    
-  | Date | Contents | Note |
-  |:---:|:---:|:---:|
-  | 1 | 2 | 3 |
-  | 2023.04 - 2023.08 | AWS활용 자바 풀스택개발 과정 수료 | 국비지원교육 |
-  | 2007.03 - 2014.08 | 생명과학부 식품공학과 졸업 | 경희대학교 |
-
-  </div>
-  
-
-  ---
   
