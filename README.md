@@ -6,6 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkepdls)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/><br/><br/>
 
 # 📚 Study
 
@@ -29,8 +30,7 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Amazon](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
-
+<br/><br/><br/>
 
 # 📜 Record
 <div align="center">
