@@ -4,8 +4,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rkepdls@naver.com)](mailto:rkepdls@naver.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkepdls)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/><br/><br/>
 
 # 📚 Study
@@ -46,4 +44,17 @@
 | - | 영화 리뷰 게시판 프로젝트 | 개인프로젝트 |
 | 2007.03 - 2014.08 | 생명과학부 식품공학과 졸업 | 경희대학교 |
 </div>
+
+<br/>
+
+# 🌿 Github Stats  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkepdls&theme=tokyonight)
+<a href="s">
+<img src="https://github-readme-stats.vercel.app/api?username=rkepdls&theme=tokyonight&show_icons=true&hide_border=true" width="47%" />
+</a>
+<a href="s">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rkepdls&theme=tokyonight&hide_border=true" width="50%" > 
+</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkepdls&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rkepdls&theme=tokyonight&utcOffset=9)
   
